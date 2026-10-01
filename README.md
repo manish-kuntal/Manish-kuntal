@@ -1,5 +1,16 @@
-# 💫 About Me:
-Name: Manish Kuntal<br>Country: India 🇮🇳<br>Goal: Engineering/Technology field mein career banana<br>Interest: AI, Machine Learning, Agentic AI, Automation, Web Development<br>Mindset: Curious, out-of-the-box thinker, practical problem solver<br>Current Focus: Real-world AI products aur projects banana<br>Interest in: Technology ko use karke practical solutions aur business opportunities create karna<br>💻 Technologies / Skills<br>Tumne in technologies par kaam ya learning ki hai:<br>Python<br>HTML<br>CSS<br>JavaScript<br>Pandas<br>Machine Learning fundamentals<br>Supervised Learning<br>AI & Generative AI<br>Agentic AI<br>Web Development<br>APIs Integration<br>Google Maps API<br>GitHub<br>FastAPI (exploring)<br>AI Tools & Automation<br>🚀 Projects / Ideas<br>Recent discussions ke according:<br>CampusRide AI<br>Smart college bus management system<br>Live GPS tracking<br>Google Maps integration<br>Student & bus management<br>Automated WhatsApp alerts<br>AI-based route optimization<br>ALTROS Personal AI<br>Personal AI assistant project<br>Python<br>Whisper<br>Voice interaction<br>FastAPI<br>Automation<br>Book Store / Cart System<br>E-commerce functionality<br>Cart management<br>Order flow<br>Dynamic pricing and quantities<br>Ocean / AI-based Projects<br>Exploring AI + data-based solutions<br>🏆 Certificates / Learning<br>Recent conversations ke according tumne:<br>Jio training/certificate complete kiya hai<br>Great Learning / MIT related Agentic AI course explore/apply kiya hai<br>AI, ML aur emerging technologies ke certifications actively pursue kar rahe ho
+# 👋 Hi, I'm Manish Kuntal
+
+* 🎓 **B.Tech CSE Student** | GL Bajaj, Mathura
+* 💻 **Aspiring Software Engineer & AI Developer**
+* 🤖 Exploring **AI/ML, LLMs, AI Agents & Automation**
+* 🛠️ **Tech:** Python, C, JavaScript, React, Node.js, FastAPI, Git, GitHub, Docker
+* 🧠 **AI:** LLMs, RAG, ChromaDB, Ollama, Whisper
+* 🚀 Building projects around **AI Agents, Automation, Cybersecurity & FinTech**
+* 🌐 Building **Velascend** — AI-powered digital marketing
+* 📚 Building **GLBLearners** — student learning platform
+* 🔥 Learning by **building, experimenting & shipping real-world projects**
+* 🎯 **Goal:** Become a strong AI/Software Engineer and build impactful products
+
 
 
 ## 🌐 Socials:
